@@ -21,6 +21,7 @@ Put the following snippet into your `pom.xml`.
 ## Artifacts (pom)
 
 * jp.cafebabe
+    * diranger [1.0.0-beta-1]
     * pochi [1.0.0][pochi-1.0.0] [2.0.0][pochi-2.0.0] [2.1.0][pochi-2.1.0] [2.2.0][pochi-2.2.0] [2.3.0][pochi-2.3.0] [2.3.1][pochi-2.3.1] [2.4.0](pochi-2.4.0) [2.5.0](pochi-2.5.0) [2.5.1](pochi-2.5.1) [2.5.2](pochi-2.5.2) [2.6.0](pochi-2.6.0)
         * izumo [1.0.0][izumo-1.0.0]
         * nasubi [1.0.0][nasubi-1.0.0]
